@@ -1,7 +1,7 @@
 # Lola Dolinsky
 
 ### Connect with me:
-<h3><a href="https://www.linkedin.com/in/lola-dolinsky/">LinkedIn</a> | <a href="./LD_Resume_07_21.pdf" type="application/pdf">Resume</a> | <a href="https://terminal.turing.edu/profiles/726">Portfolio</a> | <a href="mailto:dolinsky.lola@gmail.com">Email</a></h3>
+<h3><a href="https://www.linkedin.com/in/lola-dolinsky/">LinkedIn</a> | <a href="./LD - 2025 Resume.pdf" type="application/pdf">Resume</a> | <a href="https://terminal.turing.edu/profiles/726">Portfolio</a> | <a href="mailto:dolinsky.lola@gmail.com">Email</a></h3>
 
 <h3>Tech Stack:</h3>
   <p>
